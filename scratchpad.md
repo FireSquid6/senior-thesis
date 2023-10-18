@@ -57,8 +57,6 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 
 - [ ] "Act Protecting Motor Vehicle Owners" in MA
 - [ ] Kerry Adams and his tractor
-- [ ] TPM's and how they are harmfull
-  - Windows 11 requires them?
 - [ ] California right to repair act
 
 # Refutations
@@ -69,3 +67,11 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
   - Ability to modify your hardware doesn't mean the ability to redistribute it. These laws will still protect the trade secrets of the companies.
 - "What about John Deere saying people will pirate music in their in car computer?"
   - That would be the most convoluted way to pirate media ever. If you manage to do that, you should get an award.
+
+
+# Urban-rural divide
+https://link.gale.com/apps/doc/A768703713/AONE?u=24897062&sid=bookmark-AONE&xid=e0ba7180
+https://link.gale.com/apps/doc/A768703716/AONE?u=24897062&sid=bookmark-AONE&xid=1259983b
+
+
+- Pandemic was very bad for rural families without access to electronics

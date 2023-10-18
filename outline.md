@@ -8,7 +8,9 @@
 
 # First Confirmatio - Consumers
 
-- Digital Divide?
+- Digital Divide
+  - Poorer and more rural families lack access to laptops
+  - More repairability = more 
 - Data on consumers who just buy new stuff instead of fixing it
   - How long laptops/phones could last
 -
