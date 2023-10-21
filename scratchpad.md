@@ -63,11 +63,16 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
     - difficult to automate
     - benefits local businesses
 
+# Background
+
+- Right to repair movement
+
 # Look more into?
 
 - [ ] "Act Protecting Motor Vehicle Owners" in MA
 - [ ] Kerry Adams and his tractor
 - [ ] California right to repair act
+- [ ] FTC nixing the fix report
 
 # How it helps consumers
 
@@ -77,14 +82,35 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 - KEY DATA: US household spends 1500 per year on electronics. Extending these lifespans would save each household 330 annually, and $40 billion across the whole consumer economy. (source 29)
   - This is enough money to buy
 - MORE KEY DATA: See p 22 on savings from repair (source 30)
-
 - However, repair is getting more expensive
   - from 2000 to 2017 the price of repairing a vehicle increased by 60% (source 31)
   - This is attributed to rising cost of replacement parts (GM 30% margins on aftermarket parts) (source 32)
 - For John Deere, repair is 5 times more expensive than equipment sales (source 34)
   - If it's profitable for the company to fix stuff, they are encouraged to make products that break
+- Social benefits: "Once you understand how a technology works, why it fails, and how it can be repaired, the leap to developing an improvement is a small one." (p45)
 
 # Environmental
+
+- E-waste
+  - We dispose of 150 million mobile phones per year (source 42)
+    - If stacked on top of each other, assuming each phone has a width of 1 cm, a stack around 1000 miles long would be formed.
+  - Discarded consumer electronics accounts for 54 million tons of ewaste per year (source 43)
+  - Ewaste is harmful because:
+    - Despite making up only 2% of trash dumped in landfills, ewaste makes up 70% of toxic waste (source 48)
+    - abormal development, increases in premature and still births, and reduced childhood growth rates (source 50)
+    - Waste ends up in poor countries (source 51)
+  - Production issues
+    - 4.5 ounce iPhone requires 75 lbs of ore (source 58)
+    - Single smartphone costs 100 liters of water to produce (source 63)
+    - Australian mining firm left a ton of waste and got a bunch of kids sick (source 64)
+  - All of the terrible things that happen in the DRC see p32 and 33
+  - Pollution
+    - Single laptops generates 1000 lbs of CO2 (source 89)
+  - Delivery pollutes see p35
+  - Use the quote "When you buy a new laptop, the sticker price, doesn't fully account for the rivers poisoned by rare-earth mining, the health hazards of air pollution from gold and nickel mining, and the exploitation of workers." p36
+- Recycling isn't amazing
+  - p38 it's very inefficient
+  - While we should still try to recycle stuff, we should recycle it once it is actually at the end of its lifespan
 
 # Refutations
 
