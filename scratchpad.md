@@ -51,9 +51,17 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 - 92% of Ind. Shops were able to fix a device that the manufacturer couldn't
 - 98% were able to do it for a lower price
 - However, 42% of these skilled technicians say they frequently have to turn away customers due to lack of access to parts, and 54% say they occasionally have to.
+  - OEMs are unfairly creating a barrier to higher skilled competition
 - 95% strongly support right to repair
-
 - Anecdote about Apple being incompetent on p23 (source 37)
+
+- More repairability = more local jobs
+  - Source 40 and 41
+  - Manufacturing jobs may be lost, but local jobs are gained
+  - Repair jobs are:
+    - More skilled
+    - difficult to automate
+    - benefits local businesses
 
 # Look more into?
 
@@ -65,8 +73,7 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 
 - Products don't last as long as they should p19, source 13
 - Consumers typically replace their smartphone every two years p19, source 20, with higher income families more willing to replace than repair (source 27)
-- We throw out products that are still working p20, source 22
-- Resale market is 25 billion annually, source 23
+- We throw out products that are still working p20, source 22 Resale market is 25 billion annually, source 23
 - KEY DATA: US household spends 1500 per year on electronics. Extending these lifespans would save each household 330 annually, and $40 billion across the whole consumer economy. (source 29)
   - This is enough money to buy
 - MORE KEY DATA: See p 22 on savings from repair (source 30)
@@ -87,6 +94,11 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
   - Ability to modify your hardware doesn't mean the ability to redistribute it. These laws will still protect the trade secrets of the companies.
 - "What about John Deere saying people will pirate music in their in car computer?"
   - That would be the most convoluted way to pirate media ever. If you manage to do that, you should get an award.
+- "Apple says they lose money on repair"
+  - Nobody really knows why
+  - best theory has to do with "Hollywood accounting" (source 38)
+- "Will increased repairability increase costs?"
+  - See p25
 
 # Urban-rural divide
 
