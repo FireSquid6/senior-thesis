@@ -53,11 +53,31 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 - However, 42% of these skilled technicians say they frequently have to turn away customers due to lack of access to parts, and 54% say they occasionally have to.
 - 95% strongly support right to repair
 
+- Anecdote about Apple being incompetent on p23 (source 37)
+
 # Look more into?
 
 - [ ] "Act Protecting Motor Vehicle Owners" in MA
 - [ ] Kerry Adams and his tractor
 - [ ] California right to repair act
+
+# How it helps consumers
+
+- Products don't last as long as they should p19, source 13
+- Consumers typically replace their smartphone every two years p19, source 20, with higher income families more willing to replace than repair (source 27)
+- We throw out products that are still working p20, source 22
+- Resale market is 25 billion annually, source 23
+- KEY DATA: US household spends 1500 per year on electronics. Extending these lifespans would save each household 330 annually, and $40 billion across the whole consumer economy. (source 29)
+  - This is enough money to buy
+- MORE KEY DATA: See p 22 on savings from repair (source 30)
+
+- However, repair is getting more expensive
+  - from 2000 to 2017 the price of repairing a vehicle increased by 60% (source 31)
+  - This is attributed to rising cost of replacement parts (GM 30% margins on aftermarket parts) (source 32)
+- For John Deere, repair is 5 times more expensive than equipment sales (source 34)
+  - If it's profitable for the company to fix stuff, they are encouraged to make products that break
+
+# Environmental
 
 # Refutations
 
@@ -68,10 +88,9 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 - "What about John Deere saying people will pirate music in their in car computer?"
   - That would be the most convoluted way to pirate media ever. If you manage to do that, you should get an award.
 
-
 # Urban-rural divide
+
 https://link.gale.com/apps/doc/A768703713/AONE?u=24897062&sid=bookmark-AONE&xid=e0ba7180
 https://link.gale.com/apps/doc/A768703716/AONE?u=24897062&sid=bookmark-AONE&xid=1259983b
-
 
 - Pandemic was very bad for rural families without access to electronics

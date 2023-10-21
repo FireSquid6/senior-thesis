@@ -10,16 +10,16 @@
 
 - Digital Divide
   - Poorer and more rural families lack access to laptops
-  - More repairability = more 
+  - More repairability = more
 - Data on consumers who just buy new stuff instead of fixing it
   - How long laptops/phones could last
 -
 
-# Second Confirmatio - Farmers
+# Second Confirmatio - Small Businesses
 
 -
 
-# Third Confirmatio - Repair shops
+# Third Confirmatio - Environment
 
 - Repair shops are generally better than OEM's stuff
   - Cheaper
@@ -37,7 +37,7 @@
   - It's not like it is difficult to pirate stuff
   - "The easiest way to stop piracy is not by putting antipiracy technology to work. It's by giving those people a service that's better than what they're reveiving from the pirates" - Gabe Newell
 - "What about Apple's shift?"
-  - Oddly enough, one of the biggest companies fighting against right to repair, Apple, has done a complete 180 with the recent IPhone 14 and IPhone 15 and their backing of California's right to repair bill. It's even gained some support at the Federal level from President Biden. While it's great that 
+  - Oddly enough, one of the biggest companies fighting against right to repair, Apple, has done a complete 180 with the recent IPhone 14 and IPhone 15 and their backing of California's right to repair bill. It's even gained some support at the Federal level from President Biden. While it's great that
   - Joke about "one of the few times where California does something better than us"
 
 # Conclusion
