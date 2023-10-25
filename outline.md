@@ -25,6 +25,18 @@ Owning The Things You Buy - The Right to Repair
 
 # Confirmatio - Small Businesses
 
+- Small businesses are frequently better than the OEM's
+  - 92% say that they were able tofix a device that manufacturers couldn't
+  - 98% say they can do it for a lower price
+  - Use the anecdote from p23 about Apple incompetence
+- But that higher skill is being harmed
+  - 42% say they frequently turn away customers due to lack of parts, and 53% say they sometimes do.
+  - 95% cannot get parts
+  - It's unsurprisng that nearly all of these shops support right to repair
+- Counterintuitively, it will actually help jobs
+  - Source 40 and 41
+  - Manufacturing jobs overseas may be lost, but skilled and unautomatable jobs will be gained
+
 # Confirmatio - Consumers
 
 # Refutatios
