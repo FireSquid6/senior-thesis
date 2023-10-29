@@ -39,4 +39,26 @@ Owning The Things You Buy - The Right to Repair
 
 # Confirmatio - Consumers
 
-# Refutatios
+- Our products do not last as long as they should
+  - We throw out products that are still working (source 22)
+- Repair is overpriced
+  - Price of repairing a vehicle has increased 60% from 2000 to 2017 (source 31)
+  -
+- All of this can save us money
+  - US households spend 1500 on electronics per year. Extending these lifespans would save each household 330 anually
+
+# Refutatio
+
+- "What about trade secrets?"
+  - These proposed laws have a clause saying that you don't have to distribute
+- "What about security?"
+  - If publically available repair manuals are what compromises the security of a device, whoever designed that device probably shouldn't be allowed to work as an engineer anymore and those security risks should be the least of your worries.
+- "Apple says they lose money on repair"
+  - Most likely due to hollywood accounting
+
+# Conclusion
+
+- What you can do:
+  - Fix your own stuff
+  - Buy from companies like Framework that offer repairable laptops
+  - Send letter to representative

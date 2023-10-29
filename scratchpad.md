@@ -80,7 +80,6 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 - Consumers typically replace their smartphone every two years p19, source 20, with higher income families more willing to replace than repair (source 27)
 - We throw out products that are still working p20, source 22 Resale market is 25 billion annually, source 23
 - KEY DATA: US household spends 1500 per year on electronics. Extending these lifespans would save each household 330 annually, and $40 billion across the whole consumer economy. (source 29)
-  - This is enough money to buy
 - MORE KEY DATA: See p 22 on savings from repair (source 30)
 - However, repair is getting more expensive
   - from 2000 to 2017 the price of repairing a vehicle increased by 60% (source 31)
