@@ -2,8 +2,8 @@ Owning The Things You Buy - The Right to Repair
 
 # Intro Section
 
-- Some sort of hook?
-  - Car breaks down and you have to buy a new one?
+- Hook: my stupid oven situation
+  - I could also talk about our TV
 - Background on history
 - Thesis statement:
   Texas and other states should adopt laws such as HB515 and HB1606
@@ -43,9 +43,20 @@ Owning The Things You Buy - The Right to Repair
   - We throw out products that are still working (source 22)
 - Repair is overpriced
   - Price of repairing a vehicle has increased 60% from 2000 to 2017 (source 31)
-  -
+  - Costs of replacements parts are inflating. GM reports 30% profit margins on aftermarket parts (source 32)
+  - That isn't nearly as bad as companies like John Deer, who make 5 times more from repair than sales (source 34)
+  - If a company makes money from fixing their products, they are incentivized to make products that break.
 - All of this can save us money
   - US households spend 1500 on electronics per year. Extending these lifespans would save each household 330 anually
+  - We saved at least 10 billion repairing instead of replacing in 2017
+    - This is with the overpriced $170 screen repairs
+    - Independent repair shops or DIY replacements could be much cheaper
+  - Won't prices go up?
+    - Prices will go up, but that's a good thing.
+    - Price lets us in on "the secret" on how long a device will last
+- Repair has social benefits
+  - "Once you understand how a technology works, why it fails, and how it can be repaired, the leap to developing an improvement is a small one."
+  -
 
 # Refutatio
 
