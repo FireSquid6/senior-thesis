@@ -66,6 +66,8 @@ Owning The Things You Buy - The Right to Repair
   - If publically available repair manuals are what compromises the security of a device, whoever designed that device probably shouldn't be allowed to work as an engineer anymore and those security risks should be the least of your worries.
 - "Apple says they lose money on repair"
   - Most likely due to hollywood accounting. If they truly are losing money on repair, that's on them for just being bad at business. If it's too hard, why don't they let the independent repair shops take care of it?
+- "OEMs worked hard and invested lots into creating these products. Will it stifil innovation if you take their advantage away?"
+  - When you need to repair your iPhone, the first place you think to take it is the apple store. These OEMs can also buy the repair parts in bulk and therefore will be able to get better margins on repair. These laws don't strip away the advantage of innovation, they just force the OEMs to participate in fair competition.
 
 # Conclusion
 
