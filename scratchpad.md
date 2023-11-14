@@ -3,6 +3,7 @@ https://legiscan.com/TX/text/HB515/2023
 
 HB1606
 https://legiscan.com/TX/text/HB1606/id/2662258
+https://www.ifixit.com/repairability
 
 This could be a gold mine:
 https://www.ifixit.com/Right-to-Repair

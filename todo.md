@@ -1,0 +1,3 @@
+- [ ] add this article: https://www.dropbox.com/s/0s1i1m6efee7cbu/Summary%20of%20Sustainability%20Benefits%20of%20Microsoft%20Device%20Repair.pdf?dl=0
+- [ ] apple store anecdote
+- [ ] write narratio
