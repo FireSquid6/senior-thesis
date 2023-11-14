@@ -1,3 +1,8 @@
 - [ ] add this article: https://www.dropbox.com/s/0s1i1m6efee7cbu/Summary%20of%20Sustainability%20Benefits%20of%20Microsoft%20Device%20Repair.pdf?dl=0
 - [ ] apple store anecdote
 - [ ] write narratio
+- [ ] incorporate this into small businesses
+- [ ] Talk about digital divide?
+- [ ] talk about john deere
+  - https://www.wired.com/2015/04/dmca-ownership-john-deere/
+  - https://copyright.gov/1201/2015/comments-032715/class%2021/John_Deere_Class21_1201_2014.pdf
