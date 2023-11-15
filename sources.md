@@ -12,3 +12,6 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 https://pirg.org/wp-content/uploads/2022/05/National-Repair-Shop-Survey_0.pdf
 https://link.gale.com/apps/doc/A768703713/AONE?u=24897062&sid=bookmark-AONE&xid=e0ba7180
 https://link.gale.com/apps/doc/A768703716/AONE?u=24897062&sid=bookmark-AONE&xid=1259983b
+https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law
+https://www.bbc.com/future/article/20150402-the-worst-place-on-earth
+The book I read

@@ -6,3 +6,6 @@
 - [ ] talk about john deere
   - https://www.wired.com/2015/04/dmca-ownership-john-deere/
   - https://copyright.gov/1201/2015/comments-032715/class%2021/John_Deere_Class21_1201_2014.pdf
+- [ ] Mark everything that needs a source
+- [x] add more data on laptops for environment
+- [ ] flesh out paragraph on "buying cheap is buying twice"
