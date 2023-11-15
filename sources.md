@@ -17,3 +17,4 @@ https://www.bbc.com/future/article/20150402-the-worst-place-on-earth
 The book I read
 https://states.repair.org/states/texas/
 https://www.theguardian.com/global-development/2018/oct/12/phone-misery-children-congo-cobalt-mines-drc
+https://www.wired.com/2008/07/the-playstation-2/
