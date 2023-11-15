@@ -9,3 +9,5 @@
 - [ ] Mark everything that needs a source
 - [x] add more data on laptops for environment
 - [ ] flesh out paragraph on "buying cheap is buying twice"
+- [ ] talk about secondhand market when discussing upfront costs to consumers
+- [ ] write thesis statement and roadmap

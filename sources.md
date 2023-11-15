@@ -15,3 +15,4 @@ https://link.gale.com/apps/doc/A768703716/AONE?u=24897062&sid=bookmark-AONE&xid=
 https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law
 https://www.bbc.com/future/article/20150402-the-worst-place-on-earth
 The book I read
+https://states.repair.org/states/texas/
