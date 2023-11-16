@@ -10,11 +10,13 @@ https://copyright.gov/1201/2015/comments-032715/class%2021/John_Deere_Class21_12
 https://gizmodo.com/john-deere-thinks-people-will-pirate-music-with-in-car-1695574031
 https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 https://pirg.org/wp-content/uploads/2022/05/National-Repair-Shop-Survey_0.pdf
-https://link.gale.com/apps/doc/A768703713/AONE?u=24897062&sid=bookmark-AONE&xid=e0ba7180
 https://link.gale.com/apps/doc/A768703716/AONE?u=24897062&sid=bookmark-AONE&xid=1259983b
 https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law
-https://www.bbc.com/future/article/20150402-the-worst-place-on-earth
+https://www.bbc.com/future/article/20150402-the-worst-place-on-earth - Toxic lake in mongolia
 The book I read
-https://states.repair.org/states/texas/
-https://www.theguardian.com/global-development/2018/oct/12/phone-misery-children-congo-cobalt-mines-drc
-https://www.wired.com/2008/07/the-playstation-2/
+https://states.repair.org/states/texas/ - starting point
+https://www.theguardian.com/global-development/2018/oct/12/phone-misery-children-congo-cobalt-mines-drc - cobalt mines
+https://www.wired.com/2008/07/the-playstation-2/ - playstation wars
+https://support.apple.com/iphone/repair/screen-replacement - apple charges 280 for screen repair280 for screen repair.
+https://www.centennialbulb.org/ - I didn't really use this but it's very interesting.
+https://spectrum.ieee.org/the-great-lightbulb-conspiracy - lightbulb conspiracy
