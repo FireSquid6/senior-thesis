@@ -21,3 +21,15 @@ https://support.apple.com/iphone/repair/screen-replacement - apple charges 280 f
 https://www.centennialbulb.org/ - I didn't really use this but it's very interesting.
 https://spectrum.ieee.org/the-great-lightbulb-conspiracy - lightbulb conspiracy
 https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf
+https://www.apple.com/newsroom/2019/04/apple-expands-global-recycling-programs/
+https://www.sciencedirect.com/science/article/abs/pii/S0921344916300349
+https://9to5mac.com/2019/06/11/macbook-pro-problem/
+https://support.apple.com/guide/iphone/important-safe
+https://www.vice.com/en/article/433wyq/everything-thats-inside-your-iphonety-information-iph301fc905/ios
+https://rossmanngroup.com/iphone-screen-repair-service-in-austin/
+https://www.openmarketsinstitute.org/publications/fixing-america-breaking-manufacturers-aftermarket-monopoly-restoring-consumers-right-repair
+https://www.detroitnews.com/story/business/autos/general-motors/2017/03/23/parts-accessories-boost-ford-fca-gm-revenue/99562692/
+https://www.openmarketsinstitute.org/publications/fixing-america-breaking-manufacturers-aftermarket-monopoly-restoring-consumers-right-repair
+https://www.digitaltrends.com/cars/john-deere-tractor-hacks-ukrainian/
+https://www.cnbc.com/2020/12/09/general-electric-pays-200-million-sec-fine-for-misleading-investors.html
+https://pirg.org/articles/who-doesnt-want-the-right-to-repair-companies-worth-over-10-trillion/
