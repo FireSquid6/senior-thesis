@@ -20,3 +20,4 @@ https://www.wired.com/2008/07/the-playstation-2/ - playstation wars
 https://support.apple.com/iphone/repair/screen-replacement - apple charges 280 for screen repair280 for screen repair.
 https://www.centennialbulb.org/ - I didn't really use this but it's very interesting.
 https://spectrum.ieee.org/the-great-lightbulb-conspiracy - lightbulb conspiracy
+https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf
